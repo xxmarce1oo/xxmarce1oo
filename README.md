@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
 
-  <img src="https://tenor.com/2z6Z.gif"/>
+  <img src="https://cdn.discordapp.com/attachments/1126501503973203970/1140169491565772820/smoking-drinking.gif"/>
   
 </div>
 
