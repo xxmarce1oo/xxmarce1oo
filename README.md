@@ -1,4 +1,4 @@
-### Jogador de tênis de mesa 🏓 em tempo integral, e programador quando me sobra tempo
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
 <div id="header" align="center">
