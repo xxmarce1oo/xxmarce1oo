@@ -2,11 +2,10 @@
 
 <h1>Jogador de tênis de mesa 🏓</h1>
 
-<div align="center>
+
   
 ![](https://github.com/xxmarce1oo/xxmarce1oo/blob/main/5iEj.gif)
 
-</div>
 
 <br/>
 <div align="center">
