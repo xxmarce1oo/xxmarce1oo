@@ -21,6 +21,8 @@
 <a href = "mailto:xxmarceloo@duck.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcelobatista777/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+
+<div align="center">
  
   ### Main skills:
   
@@ -31,16 +33,23 @@
 ![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
 
 
+
 ### Estudando:
 
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxmarce1oo&" alt="xxmarce1oo"/></p>
 
 <div align="center">
 <br><p align="centre"><b>Curiosos:</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{xxmarce1oo}/count.svg" /></p> 
 <br>
 </div>
+
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
