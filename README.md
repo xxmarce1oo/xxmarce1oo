@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcelo;Faço+Análise+e+Desenvolvimento+de+Sistemas+na+UFPR;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xxmarce1oo&bg_color=6d0075&color=4efde9&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xxmarce1oo&bg_color=000000&color=4efde9&line=9400d3&point=9400d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xxmarce1oo&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" /> 
