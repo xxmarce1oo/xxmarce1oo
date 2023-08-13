@@ -41,7 +41,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxmarce1oo&" alt="xxmarce1oo"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xxmarce1oo&theme=aura"/></p>
 
 <div align="center">
 <br><p align="centre"><b>Curiosos:</b></p>  
