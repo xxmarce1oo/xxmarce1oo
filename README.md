@@ -1,6 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
+<div align="center">
+  <img src="fontbolt__1_-removebg-preview.png"/>
+</div>
+
 <div id="header" align="center">
+  <img src="fontbolt-removebg-preview.png"/>
   
 <p><b><i>and most importantly, I am free in all the ways that you are not</i></b></p>  
   <img src="https://cdn.discordapp.com/attachments/1126501503973203970/1140169491565772820/smoking-drinking.gif"/>
