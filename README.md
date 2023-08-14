@@ -41,15 +41,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xxmarce1oo&theme=aura"/></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xxmarce1oo&theme=black-ice&hide_border=true&border_radius=5&locale=pt_BR&card_width=500&background=EBEBEB00&fire=00FFFF&ring=9400D3&currStreakLabel=EBEBEB&sideNums=00FFFF)](https://git.io/streak-stats)
+
+![](https://github-contributor-stats.vercel.app/api?username=xxmarce1oo&limit=5&title_color=00FFFF&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117&combine_all_yearly_contributions=true)
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Curiosos:</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{xxmarce1oo}/count.svg" /></p> 
 <br>
 </div>
-
-</div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
