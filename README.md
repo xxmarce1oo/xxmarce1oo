@@ -12,7 +12,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xxmarce1oo&bg_color=000000&color=4efde9&line=9400d3&point=9400d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xxmarce1oo&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xxmarce1oo&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=00FFFF&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxmarce1oo&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 <div align="center"> 
