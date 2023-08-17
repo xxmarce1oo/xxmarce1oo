@@ -51,10 +51,15 @@
 ![](https://github-contributor-stats.vercel.app/api?username=xxmarce1oo&limit=5&combine_all_yearly_contributions=true&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117)
 </div>
 
-<div align="center">
+<div id="header" align="center">
+  <p><b><i>The World, Chico, And Everything In It</i></b></p>  
+  <img src="https://cdn.discordapp.com/attachments/1126501503973203970/1141725383620829214/the-world-is-yours-ship.gif"/>
+</div>
+
+<!--<div align="center">
 <br><p align="centre"><b>Curiosos:</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{xxmarce1oo}/count.svg" /></p> 
 <br>
-</div>
+</div>-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
