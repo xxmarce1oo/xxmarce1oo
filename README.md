@@ -30,20 +30,14 @@
 <div align="center">
  
   ### Main skills:
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,c,linux,ps&perline=3)](https://skillicons.dev)
 
 
 
 ### Estudando:
 
   
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,java,python,&perline=3)](https://skillicons.dev)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xxmarce1oo&theme=black-ice&hide_border=true&border_radius=5&locale=pt_BR&card_width=500&background=EBEBEB00&fire=00FFFF&ring=9400D3&currStreakLabel=EBEBEB&sideNums=00FFFF)](https://git.io/streak-stats)
