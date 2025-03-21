@@ -6,11 +6,6 @@
 
 <div id="header" align="center">
   <img src="fontbolt-removebg-preview.png"/>
-  
-<p><b><i>and most importantly, I am free in all the ways that you are not</i></b></p>  
-  <img src="[https://cdn.discordapp.com/attachments/1126501503973203970/1140169491565772820/smoking-drinking.gif](https://64.media.tumblr.com/5959218ca6386a4ca07b162a13ffa59c/74622ef9687fb96c-cd/s540x810/7bd5c2e3f51fc7c912933e868a47d1465b635fe5.gifv)"/>
-</div>
-<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcelo;Faço+Análise+e+Desenvolvimento+de+Sistemas+na+UFPR;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
