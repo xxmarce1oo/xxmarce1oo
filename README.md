@@ -25,19 +25,18 @@
 <div align="center">
  
   ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,css,c#,python,angular&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,bootstrap,cs,python,angular&perline=3)](https://skillicons.dev)
 
 
 
 ### Estudando:
 
   
-[![My Skills](https://skillicons.dev/icons?i=aws,java,python,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,typescript,docker,&perline=3)](https://skillicons.dev)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xxmarce1oo&theme=black-ice&hide_border=true&border_radius=5&locale=pt_BR&card_width=500&background=EBEBEB00&fire=00FFFF&ring=9400D3&currStreakLabel=EBEBEB&sideNums=00FFFF)](https://git.io/streak-stats)
 
-![](https://github-contributor-stats.vercel.app/api?username=xxmarce1oo&limit=5&combine_all_yearly_contributions=true&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117)
 </div>
 
 <div id="header" align="center">
