@@ -25,7 +25,7 @@
 <div align="center">
  
   ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,c,linux,ps&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,sql,css,c#,python,angular&perline=3)](https://skillicons.dev)
 
 
 
